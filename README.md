@@ -1,5 +1,5 @@
-## Name : Naveenkumar M
-## Reg No : 212224230182
+## Name : Nijanth K
+## Reg No : 212224230186
 # T-FLIPFLOP-POSEDGE
 
 **AIM:**
